@@ -387,4 +387,3 @@ Indexing structures embeddings for fast access, while similarity search uses met
 #### Dot Product
 - **Description:** Computes the product of vector magnitudes and the cosine of the angle.
 - **When to Use:** Large-scale searches and recommendation systems with normalized vectors.
-- 
